@@ -1,0 +1,22 @@
+{
+  "name": "js_datastructure_map_array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrayDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhure01/JS_DataStructure_Map_Array.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhure01/JS_DataStructure_Map_Array/issues"
+  },
+  "homepage": "https://github.com/bhure01/JS_DataStructure_Map_Array#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
